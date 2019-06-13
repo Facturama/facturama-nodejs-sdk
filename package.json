@@ -1,0 +1,15 @@
+{
+  "name": "facturama",
+  "version": "1.0.0",
+  "description": "libreria para la generacion de CFDI 3.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.85.0",
+    "underscore": "^1.8.3"
+  }
+}
