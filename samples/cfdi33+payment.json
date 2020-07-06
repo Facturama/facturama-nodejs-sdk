@@ -1,0 +1,29 @@
+{	
+	"Receiver": {
+		"Rfc": "XAXX010101000",
+        "Name": "RADIAL SOFTWARE SOLUTIONS",
+        "CfdiUse": "P01"
+    },
+    "NameId" : "14",                 
+    "CfdiType": "P",                    
+	"Folio": "102",
+	"ExpeditionPlace": "51873",
+	"Complemento": {
+		"Payments": [{
+			"Date": "2019-06-20",       
+			"PaymentForm": "03",
+			"Amount": "1856.00",
+			"RelatedDocuments": [{
+				"Uuid": "C94C8AF3-C774-4D4C-802E-781411934A6E",
+				"Serie": "R",
+				"Folio": "102",
+				"Currency": "MXN",
+				"PaymentMethod": "PUE",
+				"PartialityNumber": "1",
+				"PreviousBalanceAmount": "1856.00",
+				"AmountPaid": "1856.00",
+				"ImpSaldoInsoluto": "0.00"
+			}]
+		}]
+	}
+}
