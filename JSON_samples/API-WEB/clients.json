@@ -1,0 +1,23 @@
+{
+	"Id":"",
+	"Rfc": "URE180429TM6",
+    "Name": "UNIVERSIDAD ROBOTICA ESPAÑOLA",
+    "FiscalRegime": "601",
+    "Email": "pruebas@facturama.mx",
+    "CfdiUse": "G03",
+    "TaxResidence": "65000",
+    "NumRegIdTrib": "131494-1055",
+    "TaxZipCode": "65000",
+    "Address": 
+	{
+        "Street": "Calle de Pruebas",
+        "ExteriorNumber": "123",
+        "InteriorNumber": "456",
+        "Neighborhood": "COLOMBIA",
+        "ZipCode": "65000",
+        "Locality": "NUEVO LEON",
+        "Municipality": "ANAHUAC",
+        "State": "NUEVO LEON",
+        "Country": "Mex"
+    }
+}

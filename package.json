@@ -1,6 +1,6 @@
 {
   "name": "facturama",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "libreria para la generacion de CFDI 3.3",
   "main": "index.js",
   "scripts": {
