@@ -1,0 +1,67 @@
+{
+    "Folio": "100",
+    "Serie": "A",
+    "Currency": "MXN",
+    "ExpeditionPlace": "78116",
+    "PaymentConditions": "CREDITO A SIETE DIAS",
+    "CfdiType": "I",
+    "PaymentForm": "03",
+    "PaymentMethod": "PUE",
+    "Issuer":
+      {
+          "Rfc": "EKU9003173C9",
+          "Name": "ESCUELA KEMPER URGATE",
+          "FiscalRegime": "601"        
+      },
+   "Receiver": 
+      {
+        "Rfc": "URE180429TM6",
+        "CfdiUse": "P01",
+        "Name": "UNIVERSIDAD ROBOTICA ESPAÑOLA",
+        "FiscalRegime": "601",
+        "TaxZipCode": "65000"
+      },
+    "Items": [
+      {
+        "ProductCode": "10101504",
+        "IdentificationNumber": "EDL",
+        "Description": "Estudios de viabilidad",
+        "Unit": "NO APLICA",
+        "UnitCode": "MTS",
+        "UnitPrice": 50.0,
+        "Quantity": 2.0,
+        "Subtotal": 100.0,
+        "Taxes": [
+          {
+            "Total": 16.0,
+            "Name": "IVA",
+            "Base": 100.0,
+            "Rate": 0.16,
+            "IsRetention": false
+          }
+        ],
+        "Total": 116.0
+      },
+      {
+        "ProductCode": "10101504",
+        "IdentificationNumber": "001",
+        "Description": "SERVICIO DE COLOCACION",
+        "Unit": "NO APLICA",
+        "UnitCode": "E49",
+        "UnitPrice": 100.0,
+        "Quantity": 15.0,
+        "Subtotal": 1500.0,
+        "Discount": 0.0,
+        "Taxes": [
+          {
+            "Total": 240.0,
+            "Name": "IVA",
+            "Base": 1500.0,
+            "Rate": 0.16,
+            "IsRetention": false
+          }
+        ],
+        "Total": 1740.0
+      }
+    ]
+  }

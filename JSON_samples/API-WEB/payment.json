@@ -1,0 +1,36 @@
+{
+	"NameId": "14",
+	"CfdiType": "P",
+	"Folio": "100",
+	"ExpeditionPlace": "78000", 
+
+	"Receiver": {
+	  "Rfc": "URE180429TM6",
+	  "CfdiUse": "P01",
+	  "Name": "UNIVERSIDAD ROBOTICA ESPAÑOLA",
+	  "FiscalRegime": "601",
+	  "TaxZipCode" : "65000"
+	 },
+	"Complemento": {
+	  "Payments":  [
+		  {
+			"Date": "2022-04-10",
+			"PaymentForm": "03",
+			"Amount": "1856",
+			"RelatedDocuments": [
+			  {
+				"TaxObject": "01",
+				"Uuid": "C94C8AF3-C774-4D4C-802E-781411934A6E",
+				"Serie": "BQ",
+				"Folio": "2205",
+				"PaymentMethod": "PUE",
+				"PartialityNumber": "1",
+				"PreviousBalanceAmount": "1856",
+				"AmountPaid": "1856",
+				"ImpSaldoInsoluto": "0"
+			  }
+			]
+		  }
+	  ]
+	}
+  }

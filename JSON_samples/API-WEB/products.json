@@ -1,0 +1,30 @@
+{
+    "Unit": "Servicio",
+    "UnitCode": "E48",
+    "IdentificationNumber": "WEB003",
+    "Name": "Sitio Web CMS",
+    "Description": "Desarrollo e implementación de sitio web empleando un CMS",
+    "Price": 6500.0,
+    "CodeProdServ": "43232408",
+    "CuentaPredial": "123",
+    "Taxes": [
+    {
+        "Name": "IVA",
+        "Rate": 0.16,
+        "IsRetention": false,
+        "IsFederalTax": true
+    },
+    {
+        "Name": "ISR",
+        "IsRetention": true,
+        "IsFederalTax": true,
+        "Total": 0.1
+    },
+    {
+        "Name": "IVA",
+        "IsRetention": true,
+        "IsFederalTax": true,
+        "Total": 0.106667
+    }
+  ]
+}

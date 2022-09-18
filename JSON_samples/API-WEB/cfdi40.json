@@ -1,0 +1,54 @@
+{
+    "Serie": "A",
+    "Currency": "MXN",
+    "ExpeditionPlace": "78000",
+    "PaymentConditions": "CREDITO A SIETE DIAS",
+    "CfdiType": "I",
+    "PaymentForm": "03",
+    "PaymentMethod": "PUE",
+    "Obervations":"Observaciones en PDF",   
+    "OrderNumber":"ABC123",     
+	"Receiver": 
+    {
+        "Rfc": "ZUÑ920208KL4",
+        "Name": "ZAPATERIA URTADO ÑERI",
+        "CfdiUse": "G01",
+        "FiscalRegime": "601",
+        "TaxZipCode": "77060"
+    },
+    "Items": 
+	[{
+        "ProductCode": "10101504",
+        "IdentificationNumber": "EDL",
+        "Description": "Estudios de viabilidad",
+        "Unit": "NO APLICA",
+        "UnitCode": "MTS",
+        "UnitPrice": 50.0,
+        "Quantity": 2.0,
+        "Subtotal": 100.0,
+		"TaxObject": "02",  	
+        "Taxes": [{
+            "Total": 16.0,
+            "Name": "IVA",
+            "Base": 100.0,
+            "Rate": 0.16,
+            "IsRetention": false
+        }],
+        "Total": 116.0
+    },
+    {
+        "ProductCode": "10101504",
+        "IdentificationNumber": "001",
+        "Description": "SERVICIO DE COLOCACION",
+        "Unit": "NO APLICA",
+        "UnitCode": "E49",
+        "UnitPrice": 100.0,
+        "Quantity": 15.0,
+        "Subtotal": 1500.0,
+        "Discount": 0.0,
+		"TaxObject":"01",        
+        "Total": 1500.0
+    }
+
+]
+}

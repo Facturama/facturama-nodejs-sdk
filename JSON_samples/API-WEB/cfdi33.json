@@ -1,22 +1,19 @@
 {
-    "Serie": "R",
+    "Serie": "A",
     "Currency": "MXN",
-    "ExpeditionPlace": "78116",
+    "ExpeditionPlace": "78000",
     "PaymentConditions": "CREDITO A SIETE DIAS",
-    "Folio": "101",
+    "Folio": "1",
     "CfdiType": "I",
     "NameId" : "1",                 
     "PaymentMethod": "PPD", 
-    "PaymentForm": "99",        
-    "Issuer": {
-        "FiscalRegime": "601",
-        "Rfc": "AAA010101AAA",
-        "Name": "EXPRESION EN SOFTWARE"
-    },
-    "Receiver": {
-        "Rfc": "XAXX010101000",
-        "Name": "RADIAL SOFTWARE SOLUTIONS",
-        "CfdiUse": "P01"
+    "PaymentForm": "99",
+    "Obervations":"Observaciones en PDF",   
+    "OrderNumber":"ABC123",     
+    "Receiver":{
+        "Rfc": "CACX7605101P8",
+        "Name": "XOCHILT CASAS CHAVEZ",
+        "CfdiUse": "G03"
     },
     "Items": [
     {
