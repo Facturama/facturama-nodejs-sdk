@@ -9,7 +9,7 @@
   "author": "Diego Rodriguez",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.85.0",
+    "request": "^2.88.2",
     "underscore": "^1.8.3"
   }
 }
